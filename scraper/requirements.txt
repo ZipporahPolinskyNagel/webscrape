@@ -1,0 +1,2 @@
+selenium==3.8.1
+peewee==3.0.10
